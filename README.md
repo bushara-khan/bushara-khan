@@ -60,9 +60,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bushra&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=chatgpt&color=blue&style=for-the-badge" alt="Profile Views" />
