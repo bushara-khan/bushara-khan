@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/_____.bushra____?igsh=MTFoenR5YnB6cnJybg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="bushraqayyum100@gmail.com">
+  <a href="mailto:bushraqayyum100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
