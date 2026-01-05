@@ -69,5 +69,5 @@ Ask me about programming, Python, or C++
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bushara-khan&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
