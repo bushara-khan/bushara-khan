@@ -7,11 +7,17 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-* 🔭 I’m currently learning  **Developing logic-based projects using C++ and Python**
-* 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
-* 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
-* 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
-* 💬 Ask me about **Programming, Python C++, **
+
+🔭 Exploring logic-driven projects with C++ & Python
+
+👯 Open to collaborating on open-source Python scripts & AI modules
+
+🤝 Looking for guidance to level up in AI & automation
+
+🌱 Learning how AI connects with data structures in C++
+
+💬 Ask me about programming, Python, or C++
+
 
 ---
 
