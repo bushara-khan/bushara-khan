@@ -1,4 +1,5 @@
 <div align="center">
+ <h2>Hii I am Bushra </h2>
   <h3> 💻 C++ & Python Learner | Future AI Enthusiast </h3>
 </div>
 
@@ -6,11 +7,11 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-* 🔭 I’m currently working on **Developing logic-based projects using C++ and Python**
+* 🔭 I’m currently learning  **Developing logic-based projects using C++ and Python**
 * 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
 * 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
 * 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
-* 💬 Ask me about **Programming, Python, **
+* 💬 Ask me about **Programming, Python C++, **
 
 ---
 
@@ -55,9 +56,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Learn%20as%20much%20as%20you%20can" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
-</div>
 
 
 <div align="center">
