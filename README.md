@@ -52,12 +52,12 @@ Ask me about programming, Python, or C++
 ### 📊 GitHub Analysis:
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatgpt&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatgpt&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bushara-khan&theme=tokyonight" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bushara-khan&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chatgpt&theme=tokyonight&hide_border=true" alt="streak stats" />
+<src="https://github-readme-streak-stats.herokuapp.com/?user=bushara-khan&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
