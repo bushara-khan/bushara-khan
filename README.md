@@ -23,6 +23,9 @@ Ask me about programming, Python, or C++
 
 ### 🌐 Connect with Me:
 <div align="center">
+ <a href="https://www.linkedin.com/in/bushra-khan" target= "_blank">
+  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
   <a href="https://www.facebook.com/share/16sKoZFB9d/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=black" />
   </a>
