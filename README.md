@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=ChatGPT&fontSize=70&animation=fadeIn" />
-</div>
-
-<div align="center">
   <h3> 💻 C++ & Python Developer | Future AI Enthusiast </h3>
 </div>
 
@@ -57,7 +53,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&author=Alan%20Turing" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Learn%20as%20much%20as%20you%20can" />
 </div>
 
 <div align="center">
