@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> 💻 C++ & Python Developer | AI Enthusiast </h3>
+  <h3> 💻 C++ & Python Developer | Future AI Enthusiast </h3>
 </div>
 
 ---
@@ -14,17 +14,17 @@
 * 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
 * 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
 * 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
-* 💬 Ask me about **Programming, Python, or AI technology**
+* 💬 Ask me about **Programming, Python, **
 * ⚡ Fun fact **I enjoy turning complex problems into clean, efficient code!**
 
 ---
 
 ### 🌐 Connect with Me:
 <div align="center">
-  <a href="https://facebook.com/chatgpt" target="_blank">
+  <a href="https://www.facebook.com/share/16sKoZFB9d/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/chatgpt" target="_blank">
+  <a href="https://www.instagram.com/_____.bushra____?igsh=MTFoenR5YnB6cnJybg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="bushraqayyum100@gmail.com">
@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 ---
@@ -71,5 +69,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=orange&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>
