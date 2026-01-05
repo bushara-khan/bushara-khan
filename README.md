@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> 💻 C++ & Python Developer | Future AI Enthusiast </h3>
+  <h3> 💻 C++ & Python Learner | Future AI Enthusiast </h3>
 </div>
 
 ---
