@@ -1,6 +1,6 @@
 <div align="center">
  <h2>Hii I am Bushra </h2>
-  <h3> 💻 C++ & Python Learner | Future AI Enthusiast </h3>
+  <h3> 💻 C++ & Python Learner | AI Enthusiast </h3>
 </div>
 
 ---
