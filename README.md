@@ -347,7 +347,7 @@ From UAJK to the world, I'm building AI solutions that matter. My goal is to use
 <!-- Languages and Activity -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushara-khan&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF69B4&text_color=FFFFFF&langs_count=8&card_width=400&custom_title=💻%20Languages%20I%20Love%20💻" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=BUSHRA-GITHUB-USERNAME&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=1a1a2e&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4" alt="Contribution Stats"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=bushara-khan&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=1a1a2e&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4" alt="Contribution Stats"/>
 </p>
 
 <!-- Activity Graph with Custom Colors -->
