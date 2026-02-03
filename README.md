@@ -12,7 +12,8 @@
 
 <!-- Glowing Name Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=700&size=60&duration=2000&pause=500&color=FF1493&center=true&vCenter=true&repeat=true&width=800&height=100&lines=💖+Bushra+Khan+💖;✨+AI+Developer+✨;🌟+Tech+Innovator+🌟;🚀+Dream+Builder+🚀" alt="Animated Name" />
+ <img src="https://readme-typing-svg.demolab.com?font=Satisfy&weight=700&size=60&duration=1500&pause=300&color=FF69B4&center=true&vCenter=true&repeat=true&width=800&height=100&lines=💖+Bushra+Khan;✨+AI+Enthusiast;🌟+Tech+Explorer" alt="Animated Name" />
+
 </h1>
 
 <!-- Animated Sparkles Around Name -->
@@ -45,9 +46,9 @@
 
 <!-- Profile Stats with Beautiful Icons -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bushara-khan&label=✨%20Profile%20Visitors&color=ff69b4&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/bushara-khan?label=💖%20Followers&style=for-the-badge&color=ff69b4&labelColor=1a1a2e" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/bushara-khan?label=⭐%20Stars&style=for-the-badge&color=ffd700&labelColor=1a1a2e" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=bushara-khan&label=%20Profile%20Visitors&color=ff69b4&style=for-the-badge&labelColor=1a1a2e" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/bushara-khan?label=%20Followers&style=for-the-badge&color=ff69b4&labelColor=1a1a2e" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/bushara-khan?label=%20Stars&style=for-the-badge&color=ffd700&labelColor=1a1a2e" alt="Stars"/>
 </p>
 
 <!-- Role Badges -->
