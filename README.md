@@ -632,7 +632,7 @@ Teamwork         ████████████████████░
   <a href="https://twitter.com/YOUR-TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM">
+  <a href="https://www.instagram.com/_____.bushra____?igsh=MTFoenR5YnB6cnJybg==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" alt="Instagram"/>
   </a>
   <a href="mailto:bushra.khan.ai@uajk.edu.pk">
