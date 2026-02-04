@@ -626,7 +626,7 @@ Teamwork         ████████████████████░
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/BUSHRA-GITHUB-USERNAME">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
   </a>
   <a href="https://twitter.com/YOUR-TWITTER">
@@ -635,7 +635,7 @@ Teamwork         ████████████████████░
   <a href="https://instagram.com/YOUR-INSTAGRAM">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" alt="Instagram"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:bushra.khan.ai@uajk.edu.pk">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
   </a>
   <a href="https://YOUR-PORTFOLIO.com">
@@ -754,12 +754,12 @@ Teamwork         ████████████████████░
 
 ### 🌍 Visitor Map
 
-<img src="https://profile-counter.glitch.me/BUSHRA-GITHUB-USERNAME/count.svg" alt="Visitor Count" />
+<img src="https://profile-counter.glitch.me/bushara-khan/count.svg" alt="Visitor Count" />
 
 <!-- Achievement Badges -->
 ### 🎖️ GitHub Achievements
 
-<img src="https://github-profile-achievement-badges.vercel.app/api?username=BUSHRA-GITHUB-USERNAME&theme=radical&column=5" />
+<img src="https://github-profile-achievement-badges.vercel.app/api?username=bushara-khan&theme=radical&column=5" />
 
 </div>
 
